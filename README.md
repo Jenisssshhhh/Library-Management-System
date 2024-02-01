@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Clone: `git clone https://github.com/your-username/library-api.git`
+1. Clone: `git clone https://github.com/jenisssshhhh/Library-Management-System.git`
 2. Install: `pip install -r requirements.txt`
 3. Migrate: `python manage.py migrate`
 4. Run: `python manage.py runserver`
